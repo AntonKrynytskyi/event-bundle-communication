@@ -3,8 +3,8 @@
 ## Simple Example
 
 ### Description:
-*'/mrgr3n/ebc/info' - mapped to servlet, which trigger event to creating orders with some products;
-*'items' - number products, which will be created under current order.	
+* */mrgr3n/ebc/info* - mapped to servlet, which trigger event to creating orders with some products;
+* *items* - number products, which will be created under current order.	
 
 ### Go to the next link:
 > http://[host]:[port]/mrgr3n/ebc/info?items=4  
